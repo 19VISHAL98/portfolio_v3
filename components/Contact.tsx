@@ -1,7 +1,7 @@
 'use client'
 
 const socials = [
-  { label: 'Behance', url: 'https://behance.net/vishalkumar' },
+  { label: 'LinkedIn', url: 'https://LinkedIn.net/vishalkumar' },
   { label: 'Instagram', url: 'https://instagram.com/vishalkumar' },
   { label: 'Twitter', url: 'https://twitter.com/vishalkumar' },
   { label: 'Dribbble', url: 'https://dribbble.com/vishalkumar' },

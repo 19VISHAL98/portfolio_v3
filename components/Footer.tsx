@@ -4,7 +4,7 @@ import { personalDetails } from '../personalDetails';
 import { motion } from 'framer-motion';
 
 const Footer = () => {
-  const socials = personalDetails.socials.filter(s => ['Behance', 'Instagram', 'Twitter', 'Dribbble'].includes(s.label));
+  const socials = personalDetails.socials.filter(s => ['LinkedIn', 'Instagram', 'Twitter', 'Dribbble'].includes(s.label));
   const year = new Date().getFullYear();
 
   return (

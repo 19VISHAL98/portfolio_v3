@@ -68,7 +68,7 @@ const Header = () => {
   }, []);
 
   // Filter social links for the dropdown
-  const socials = personalDetails.socials.filter(s => ['Behance', 'Instagram', 'Twitter', 'Dribbble'].includes(s.label));
+  const socials = personalDetails.socials.filter(s => ['LinkedIn', 'Instagram', 'Twitter', 'Dribbble'].includes(s.label));
 
   return (
     <header

@@ -5,7 +5,7 @@ export const personalDetails = {
   email: 'vishalkumar8673@gmail.com',
   aboutMe: `I'm a skilled Full Stack Developer with expertise in building scalable web applications and real-time multiplayer games for high-traffic platforms. I specialize in Node.js, React.js, and TypeScript, and have hands-on experience with Redis, MySQL, MongoDB, and cloud deployments on AWS. Passionate about backend architecture, microservices, and real-time systems using WebSockets and RabbitMQ, I enjoy creating robust solutions that balance performance, scalability, and clean design. I'm a problem-solver at heart, committed to delivering reliable and efficient technology for modern applications.`,
   socials: [
-    { label: 'Behance', url: 'https://behance.net/vishalkumar', handle: '@vishalkumar' },
+    { label: 'LinkedIn', url: 'https://LinkedIn.net/vishalkumar', handle: '@vishalkumar' },
     { label: 'Instagram', url: 'https://instagram.com/vishalkumar', handle: '@vishalkumar' },
     { label: 'Twitter', url: 'https://twitter.com/vishalkumar', handle: '@vishalkumar' },
     { label: 'Dribbble', url: 'https://dribbble.com/vishalkumar', handle: '@vishalkumar' },
